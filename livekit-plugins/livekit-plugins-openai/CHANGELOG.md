@@ -1,5 +1,13 @@
 # livekit-plugins-openai
 
+## 0.8.1
+
+### Patch Changes
+
+- add support for Ollama, Perplexity, Fireworks, Octo, Together, and Groq LLMs through the OpenAI API - [#611](https://github.com/livekit/agents/pull/611) ([@nbsp](https://github.com/nbsp))
+
+- allow sending user IDs - [#633](https://github.com/livekit/agents/pull/633) ([@nbsp](https://github.com/nbsp))
+
 ## 0.8.0
 
 ### Minor Changes
